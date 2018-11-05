@@ -1,5 +1,5 @@
 {
-    "name": "elliottb/phpgraphlib",
+    "name": "wp-statistics/phpgraphlib",
     "type": "library",
     "description": "PHP Graphing Library that creates graphs natively in PHP",
     "keywords": ["graph","graphs", "graphing", "gd"],

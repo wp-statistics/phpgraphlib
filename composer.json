@@ -7,5 +7,12 @@
     "license": "MIT",
     "require": {
         "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": [
+            "phpgraphlib.php",
+            "phpgraphlib_pie.php",
+            "phpgraphlib_stacked.php"
+         ]
     }
 }
